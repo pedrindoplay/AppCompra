@@ -1,0 +1,14 @@
+C:\Projects\Company\Etecs\Materias\LinguagemDeProgramacao1\Projetos\FacilitadorDeDecisaoDeCompra\App\FacilitadorDeCompraApp\App.Core\bin\Release\net9.0\App.Core.exe
+C:\Projects\Company\Etecs\Materias\LinguagemDeProgramacao1\Projetos\FacilitadorDeDecisaoDeCompra\App\FacilitadorDeCompraApp\App.Core\bin\Release\net9.0\App.Core.deps.json
+C:\Projects\Company\Etecs\Materias\LinguagemDeProgramacao1\Projetos\FacilitadorDeDecisaoDeCompra\App\FacilitadorDeCompraApp\App.Core\bin\Release\net9.0\App.Core.runtimeconfig.json
+C:\Projects\Company\Etecs\Materias\LinguagemDeProgramacao1\Projetos\FacilitadorDeDecisaoDeCompra\App\FacilitadorDeCompraApp\App.Core\bin\Release\net9.0\App.Core.dll
+C:\Projects\Company\Etecs\Materias\LinguagemDeProgramacao1\Projetos\FacilitadorDeDecisaoDeCompra\App\FacilitadorDeCompraApp\App.Core\bin\Release\net9.0\App.Core.pdb
+C:\Projects\Company\Etecs\Materias\LinguagemDeProgramacao1\Projetos\FacilitadorDeDecisaoDeCompra\App\FacilitadorDeCompraApp\App.Core\obj\Release\net9.0\App.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Company\Etecs\Materias\LinguagemDeProgramacao1\Projetos\FacilitadorDeDecisaoDeCompra\App\FacilitadorDeCompraApp\App.Core\obj\Release\net9.0\App.Core.AssemblyInfoInputs.cache
+C:\Projects\Company\Etecs\Materias\LinguagemDeProgramacao1\Projetos\FacilitadorDeDecisaoDeCompra\App\FacilitadorDeCompraApp\App.Core\obj\Release\net9.0\App.Core.AssemblyInfo.cs
+C:\Projects\Company\Etecs\Materias\LinguagemDeProgramacao1\Projetos\FacilitadorDeDecisaoDeCompra\App\FacilitadorDeCompraApp\App.Core\obj\Release\net9.0\App.Core.csproj.CoreCompileInputs.cache
+C:\Projects\Company\Etecs\Materias\LinguagemDeProgramacao1\Projetos\FacilitadorDeDecisaoDeCompra\App\FacilitadorDeCompraApp\App.Core\obj\Release\net9.0\App.Core.dll
+C:\Projects\Company\Etecs\Materias\LinguagemDeProgramacao1\Projetos\FacilitadorDeDecisaoDeCompra\App\FacilitadorDeCompraApp\App.Core\obj\Release\net9.0\refint\App.Core.dll
+C:\Projects\Company\Etecs\Materias\LinguagemDeProgramacao1\Projetos\FacilitadorDeDecisaoDeCompra\App\FacilitadorDeCompraApp\App.Core\obj\Release\net9.0\App.Core.pdb
+C:\Projects\Company\Etecs\Materias\LinguagemDeProgramacao1\Projetos\FacilitadorDeDecisaoDeCompra\App\FacilitadorDeCompraApp\App.Core\obj\Release\net9.0\App.Core.genruntimeconfig.cache
+C:\Projects\Company\Etecs\Materias\LinguagemDeProgramacao1\Projetos\FacilitadorDeDecisaoDeCompra\App\FacilitadorDeCompraApp\App.Core\obj\Release\net9.0\ref\App.Core.dll

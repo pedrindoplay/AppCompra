@@ -1,0 +1,42 @@
+C:\Projects\Company\Etecs\Materias\LinguagemDeProgramacao1\Projetos\FacilitadorDeDecisaoDeCompra\App\FacilitadorDeCompraApp\App.Core\bin\Debug\net9.0\App.Core.exe
+C:\Projects\Company\Etecs\Materias\LinguagemDeProgramacao1\Projetos\FacilitadorDeDecisaoDeCompra\App\FacilitadorDeCompraApp\App.Core\bin\Debug\net9.0\App.Core.deps.json
+C:\Projects\Company\Etecs\Materias\LinguagemDeProgramacao1\Projetos\FacilitadorDeDecisaoDeCompra\App\FacilitadorDeCompraApp\App.Core\bin\Debug\net9.0\App.Core.runtimeconfig.json
+C:\Projects\Company\Etecs\Materias\LinguagemDeProgramacao1\Projetos\FacilitadorDeDecisaoDeCompra\App\FacilitadorDeCompraApp\App.Core\bin\Debug\net9.0\App.Core.dll
+C:\Projects\Company\Etecs\Materias\LinguagemDeProgramacao1\Projetos\FacilitadorDeDecisaoDeCompra\App\FacilitadorDeCompraApp\App.Core\bin\Debug\net9.0\App.Core.pdb
+C:\Projects\Company\Etecs\Materias\LinguagemDeProgramacao1\Projetos\FacilitadorDeDecisaoDeCompra\App\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\App.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Company\Etecs\Materias\LinguagemDeProgramacao1\Projetos\FacilitadorDeDecisaoDeCompra\App\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\App.Core.AssemblyInfoInputs.cache
+C:\Projects\Company\Etecs\Materias\LinguagemDeProgramacao1\Projetos\FacilitadorDeDecisaoDeCompra\App\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\App.Core.AssemblyInfo.cs
+C:\Projects\Company\Etecs\Materias\LinguagemDeProgramacao1\Projetos\FacilitadorDeDecisaoDeCompra\App\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\App.Core.csproj.CoreCompileInputs.cache
+C:\Projects\Company\Etecs\Materias\LinguagemDeProgramacao1\Projetos\FacilitadorDeDecisaoDeCompra\App\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\App.Core.dll
+C:\Projects\Company\Etecs\Materias\LinguagemDeProgramacao1\Projetos\FacilitadorDeDecisaoDeCompra\App\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\refint\App.Core.dll
+C:\Projects\Company\Etecs\Materias\LinguagemDeProgramacao1\Projetos\FacilitadorDeDecisaoDeCompra\App\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\App.Core.pdb
+C:\Projects\Company\Etecs\Materias\LinguagemDeProgramacao1\Projetos\FacilitadorDeDecisaoDeCompra\App\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\App.Core.genruntimeconfig.cache
+C:\Projects\Company\Etecs\Materias\LinguagemDeProgramacao1\Projetos\FacilitadorDeDecisaoDeCompra\App\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\ref\App.Core.dll
+C:\Users\Aluno\Documents\FacilitadorDeCompraApp\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\App.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\FacilitadorDeCompraApp\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\App.Core.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\FacilitadorDeCompraApp\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\App.Core.AssemblyInfo.cs
+C:\Users\Aluno\Documents\FacilitadorDeCompraApp\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\App.Core.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\FacilitadorDeCompraApp\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\App.Core.dll
+C:\Users\Aluno\Documents\FacilitadorDeCompraApp\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\refint\App.Core.dll
+C:\Users\Aluno\Documents\FacilitadorDeCompraApp\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\App.Core.pdb
+C:\Users\Aluno\Documents\FacilitadorDeCompraApp\FacilitadorDeCompraApp\App.Core\bin\Debug\net9.0\App.Core.exe
+C:\Users\Aluno\Documents\FacilitadorDeCompraApp\FacilitadorDeCompraApp\App.Core\bin\Debug\net9.0\App.Core.deps.json
+C:\Users\Aluno\Documents\FacilitadorDeCompraApp\FacilitadorDeCompraApp\App.Core\bin\Debug\net9.0\App.Core.runtimeconfig.json
+C:\Users\Aluno\Documents\FacilitadorDeCompraApp\FacilitadorDeCompraApp\App.Core\bin\Debug\net9.0\App.Core.dll
+C:\Users\Aluno\Documents\FacilitadorDeCompraApp\FacilitadorDeCompraApp\App.Core\bin\Debug\net9.0\App.Core.pdb
+C:\Users\Aluno\Documents\FacilitadorDeCompraApp\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\App.Core.genruntimeconfig.cache
+C:\Users\Aluno\Documents\FacilitadorDeCompraApp\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\ref\App.Core.dll
+C:\Users\manja\OneDrive\Área de Trabalho\FacilitadorDeCompraApp-20251025T130323Z-1-001\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\App.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manja\OneDrive\Área de Trabalho\FacilitadorDeCompraApp-20251025T130323Z-1-001\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\App.Core.AssemblyInfoInputs.cache
+C:\Users\manja\OneDrive\Área de Trabalho\FacilitadorDeCompraApp-20251025T130323Z-1-001\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\App.Core.AssemblyInfo.cs
+C:\Users\manja\OneDrive\Área de Trabalho\FacilitadorDeCompraApp-20251025T130323Z-1-001\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\App.Core.csproj.CoreCompileInputs.cache
+C:\Users\manja\OneDrive\Área de Trabalho\FacilitadorDeCompraApp-20251025T130323Z-1-001\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\App.Core.dll
+C:\Users\manja\OneDrive\Área de Trabalho\FacilitadorDeCompraApp-20251025T130323Z-1-001\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\refint\App.Core.dll
+C:\Users\manja\OneDrive\Área de Trabalho\FacilitadorDeCompraApp-20251025T130323Z-1-001\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\App.Core.pdb
+C:\Users\manja\OneDrive\Área de Trabalho\FacilitadorDeCompraApp-20251025T130323Z-1-001\FacilitadorDeCompraApp\App.Core\bin\Debug\net9.0\App.Core.exe
+C:\Users\manja\OneDrive\Área de Trabalho\FacilitadorDeCompraApp-20251025T130323Z-1-001\FacilitadorDeCompraApp\App.Core\bin\Debug\net9.0\App.Core.deps.json
+C:\Users\manja\OneDrive\Área de Trabalho\FacilitadorDeCompraApp-20251025T130323Z-1-001\FacilitadorDeCompraApp\App.Core\bin\Debug\net9.0\App.Core.runtimeconfig.json
+C:\Users\manja\OneDrive\Área de Trabalho\FacilitadorDeCompraApp-20251025T130323Z-1-001\FacilitadorDeCompraApp\App.Core\bin\Debug\net9.0\App.Core.dll
+C:\Users\manja\OneDrive\Área de Trabalho\FacilitadorDeCompraApp-20251025T130323Z-1-001\FacilitadorDeCompraApp\App.Core\bin\Debug\net9.0\App.Core.pdb
+C:\Users\manja\OneDrive\Área de Trabalho\FacilitadorDeCompraApp-20251025T130323Z-1-001\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\App.Core.genruntimeconfig.cache
+C:\Users\manja\OneDrive\Área de Trabalho\FacilitadorDeCompraApp-20251025T130323Z-1-001\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\ref\App.Core.dll
